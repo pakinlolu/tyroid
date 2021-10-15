@@ -1,0 +1,2 @@
+# tyroid
+Javascript helper methods 
